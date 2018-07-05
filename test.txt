@@ -1,3 +1,5 @@
 practice remote
 
 안된다
+
+release 수정
